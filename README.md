@@ -1,6 +1,7 @@
 <h1 align="center">
 <img width="40" valign="bottom" src="https://angular.io/assets/images/logos/angular/angular.svg">
 Angular Pro: Final App Seed
+https://github.com/UltimateAngular/angular-pro-app-seed
 </h1>
 <h4 align="center">Seed app for fitness manager application using Angular v4+ and AngularFire2.</h4>
 
