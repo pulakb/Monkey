@@ -8,6 +8,9 @@
 7. https://code.visualstudio.com/download 
 8. Install Firebase CLI on the command-line with `npm install -g firebase-tools`
 
+## Pizza
+1. https://github.com/toddmotto/angular-pizza-creator
+
 ## Firebase
 https://firebase.google.com/docs/cli/
 
