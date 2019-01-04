@@ -6,9 +6,10 @@
 5. https://webpack.js.org/guides/installation/
 6. https://yarnpkg.com/lang/en/docs/install/#windows-stable 
 7. https://code.visualstudio.com/download 
+8. Install Firebase CLI on the command-line with `npm install -g firebase-tools`
 
-
-> This repo serves as the seed project for the Ultimate Angular Pro course as well as the final solution in a separate branch, come and [learn advanced Angular](https://ultimateangular.com/courses/) architecture!
+## Firebase
+https://firebase.google.com/docs/cli/
 
 [Setup and install](#setup-and-install) |
 [Tasks](#tasks) |
