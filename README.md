@@ -1,7 +1,10 @@
-# Links
+## Links
 1. https://github.com/UltimateAngular/angular-pro-app-seed
 2. http://devboosts.com/2017/02/08/top-10-vs-code-extensions/
 3. https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
+4. https://www.typescriptlang.org/#download-links
+5. https://webpack.js.org/guides/installation/
+6. https://yarnpkg.com/lang/en/docs/install/#windows-stable 
 
 
 > This repo serves as the seed project for the Ultimate Angular Pro course as well as the final solution in a separate branch, come and [learn advanced Angular](https://ultimateangular.com/courses/) architecture!
