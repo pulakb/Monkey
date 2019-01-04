@@ -5,6 +5,7 @@
 4. https://www.typescriptlang.org/#download-links
 5. https://webpack.js.org/guides/installation/
 6. https://yarnpkg.com/lang/en/docs/install/#windows-stable 
+7. https://code.visualstudio.com/download 
 
 
 > This repo serves as the seed project for the Ultimate Angular Pro course as well as the final solution in a separate branch, come and [learn advanced Angular](https://ultimateangular.com/courses/) architecture!
