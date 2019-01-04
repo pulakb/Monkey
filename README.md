@@ -1,6 +1,8 @@
----
-https://github.com/UltimateAngular/angular-pro-app-seed
----
+# Links
+1. https://github.com/UltimateAngular/angular-pro-app-seed
+2. http://devboosts.com/2017/02/08/top-10-vs-code-extensions/
+3. https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
+
 
 > This repo serves as the seed project for the Ultimate Angular Pro course as well as the final solution in a separate branch, come and [learn advanced Angular](https://ultimateangular.com/courses/) architecture!
 
